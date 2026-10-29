@@ -1,6 +1,8 @@
 ﻿# CUTTER_01
 
-A desktop video downloader and batch cutter built with Python and Tkinter.
+A desktop video downloader and batch cutter built with Python.
+
+![CUTTER_01 application screenshot](https://github.com/user-attachments/assets/9c958bea-eb5c-4f00-a88e-5d1ac5fb8ae0)
 
 ## Features
 
