@@ -36,3 +36,11 @@ Review `build.bat` and `CUTTER_01.spec` before building. The required external t
 ## License
 
 See `LICENSE`.
+
+## Support
+
+If you find CUTTER_01 useful, you can optionally support its creator with a donation. Donations are completely voluntary. The app is free to use, and donations do not guarantee future updates or support.
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://paypal.me/MixilAzmi)
+
+Made by Mixil Mina Azmi.
